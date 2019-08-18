@@ -1,3 +1,6 @@
+# This script will read through an existing csv file, then write specific information to a brand new file.
+# Very useful if you need to break up a master csv/excel file instead of using filters.
+
 #!/usr/bin/python
 
 import csv, sys
